@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "4bfe0b95-0c6c-45be-b42a-03d87dc6899f",
+    "title": "Monday",
+    "text": "Study"
+  },
+  {
+    "id": "0b1cc30e-b68b-4e32-abbc-674fedc42936",
+    "title": "Tuesday",
+    "text": "Study"
+  },
+  {
+    "id": "c037d56b-d2b1-4470-8073-b017b56632fa",
+    "title": "Friday",
+    "text": "Red Sox game"
+  }
+]
